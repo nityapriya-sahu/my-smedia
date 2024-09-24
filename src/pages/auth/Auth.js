@@ -22,7 +22,7 @@ const Auth = () => {
 function LogIn() {
   return (
     <div className="a-right">
-      <form className="infoForm authForm">
+      <form className="infoform authForm">
         <h3>Log In</h3>
 
         <div>
@@ -56,7 +56,7 @@ function LogIn() {
 function SignUp() {
   return (
     <div className="a-right">
-      <form className="infoForm authForm">
+      <form className="infoform authForm">
         <h3>Sign up</h3>
 
         <div>
